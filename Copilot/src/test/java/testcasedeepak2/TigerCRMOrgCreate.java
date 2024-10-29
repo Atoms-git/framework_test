@@ -106,9 +106,12 @@ public void TigerCRMOrgCreatewithph() throws Throwable, Throwable {
 	//wflib.waitForPageToLoad(driver);
 	//wflib.waitforElementPresent(driver, hp.getSignimg());
 	Thread.sleep(3000);
-	
-	
+
 }
+	@Test(groups="smokeTest")
+	 public void Deletecontact() throws Throwable {
+		System.out.println("delete");
+	}
 }
 
 
