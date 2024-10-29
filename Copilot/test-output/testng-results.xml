@@ -5,46 +5,46 @@
       <![CDATA[hello]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-10-29T11:28:16 IST" name="Default suite" finished-at="2024-10-29T11:28:27 IST" duration-ms="11389">
+  <suite started-at="2024-10-29T11:35:18 IST" name="Default suite" finished-at="2024-10-29T11:35:35 IST" duration-ms="17096">
     <groups>
       <group name="smokeTest">
-        <method signature="TigerCRMContactCreatewithlastname.contactcreate()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" name="contactcreate" class="testcasedeepak.TigerCRMContactCreatewithlastname"/>
+        <method signature="TigerCRMContactCreatewithlastnameTest.contactcreateTest()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" name="contactcreateTest" class="testcasedeepak.TigerCRMContactCreatewithlastnameTest"/>
       </group> <!-- smokeTest -->
     </groups>
-    <test started-at="2024-10-29T11:28:16 IST" name="Default test" finished-at="2024-10-29T11:28:27 IST" duration-ms="11389">
-      <class name="testcasedeepak.TigerCRMContactCreatewithlastname">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:15 IST" name="configBS" finished-at="2024-10-29T11:28:16 IST" duration-ms="505" status="PASS">
+    <test started-at="2024-10-29T11:35:18 IST" name="Default test" finished-at="2024-10-29T11:35:35 IST" duration-ms="17096">
+      <class name="testcasedeepak.TigerCRMContactCreatewithlastnameTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:18 IST" name="configBS" finished-at="2024-10-29T11:35:18 IST" duration-ms="455" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method is-config="true" signature="configBC()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:16 IST" name="configBC" finished-at="2024-10-29T11:28:19 IST" duration-ms="3185" status="PASS">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:18 IST" name="configBC" finished-at="2024-10-29T11:35:21 IST" duration-ms="3144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:19 IST" name="configBM" finished-at="2024-10-29T11:28:22 IST" duration-ms="2972" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:21 IST" name="configBM" finished-at="2024-10-29T11:35:25 IST" duration-ms="3781" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="contactcreate()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:22 IST" name="contactcreate" finished-at="2024-10-29T11:28:26 IST" duration-ms="4034" status="PASS">
+        <test-method signature="contactcreateTest()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:25 IST" name="contactcreateTest" finished-at="2024-10-29T11:35:34 IST" duration-ms="8773" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello]]>
             </line>
           </reporter-output>
-        </test-method> <!-- contactcreate -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:26 IST" name="configAM" finished-at="2024-10-29T11:28:27 IST" duration-ms="737" status="PASS">
+        </test-method> <!-- contactcreateTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:34 IST" name="configAM" finished-at="2024-10-29T11:35:35 IST" duration-ms="985" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configAC()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:27 IST" name="configAC" finished-at="2024-10-29T11:28:27 IST" duration-ms="380" status="PASS">
+        <test-method is-config="true" signature="configAC()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:35 IST" name="configAC" finished-at="2024-10-29T11:35:35 IST" duration-ms="339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAC -->
-        <test-method is-config="true" signature="configAS()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastname@5b799640]" started-at="2024-10-29T11:28:27 IST" name="configAS" finished-at="2024-10-29T11:28:27 IST" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="configAS()[pri:0, instance:testcasedeepak.TigerCRMContactCreatewithlastnameTest@5b799640]" started-at="2024-10-29T11:35:35 IST" name="configAS" finished-at="2024-10-29T11:35:35 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAS -->
-      </class> <!-- testcasedeepak.TigerCRMContactCreatewithlastname -->
+      </class> <!-- testcasedeepak.TigerCRMContactCreatewithlastnameTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
