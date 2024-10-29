@@ -13,11 +13,11 @@ import com.camcast.crm.objectrepositoryutility.HomePage;
 import com.camcast.crm.objectrepositoryutility.OrgChildPageFromContacts;
 import com.comcast.crm.basetest.BaseClass;
 
-public class TigerCRMContactCreatewithlastname extends BaseClass {
+public class TigerCRMContactCreatewithlastnameTest extends BaseClass {
 
 	@Test(groups="smokeTest")
 	
-	public void contactcreate() throws EncryptedDocumentException, IOException, Throwable {
+	public void contactcreateTest() throws EncryptedDocumentException, IOException, Throwable {
 		
 		String orgnamefrmexcel = eflib.getDataFromExcel("Sheet1", 1, 0);
 		int ranfromjava =jflib.getRandomNumber();
